@@ -1,0 +1,1 @@
+﻿ALTER TABLE meetups_db.Users ADD ( new_column1 VARCHAR(150) NULL, new_column2 INT NULL )
